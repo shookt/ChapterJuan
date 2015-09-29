@@ -1,19 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "..\..\Documents\Visual Studio 2010\Projects\ChapterJuan\ConsoleApplication1\ConsoleApplication1.csproj", "{E5870F98-9058-4979-8EE3-4A0E81F723BE}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Name.cs", "..\..\Documents\Visual Studio 2010\Projects\ChapterJuan\Name.cs\Name.cs.csproj", "{B3B58441-1E41-4696-A8FC-5842BE0AE797}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Address.cs", "..\..\Documents\Visual Studio 2010\Projects\ChapterJuan\Address.cs\Address.cs.csproj", "{291A1A39-E0D2-4752-95FA-2ECE42A65ABB}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tree.cs", "..\..\Documents\Visual Studio 2010\Projects\ChapterJuan\Tree.cs\Tree.cs.csproj", "{9AA923B4-06D7-426D-B5E1-B7C7571739DB}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Initials.cs", "..\..\Documents\Visual Studio 2010\Projects\ChapterJuan\Initials.cs\Initials.cs.csproj", "{7C5F2169-1564-4354-A2F0-8CF719A7BFDC}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BurmaShave.cs", "..\..\Documents\Visual Studio 2010\Projects\ChapterJuan\BurmaShave.cs\BurmaShave.cs.csproj", "{D595AFDD-E4FC-4285-8148-4A071D22B28C}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quotation.cs", "Quotation.cs\Quotation.cs.csproj", "{25DBF1F4-D882-402E-B925-33DD4B46BB2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Name.cs", "Name.cs\Name.cs.csproj", "{EB880403-F107-43DC-81F8-704EB74C3C26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Address.cs", "Address.cs\Address.cs.csproj", "{82779808-D188-4419-B5C0-2066CE1A9794}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tree.cs", "Tree.cs\Tree.cs.csproj", "{4EA5A25A-F00A-4DC6-94F6-70CAEA00891E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Initials.cs", "Initials.cs\Initials.cs.csproj", "{7E505EE3-0885-4151-A398-3FA8DE442472}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,34 +17,26 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E5870F98-9058-4979-8EE3-4A0E81F723BE}.Debug|x86.ActiveCfg = Debug|x86
-		{E5870F98-9058-4979-8EE3-4A0E81F723BE}.Debug|x86.Build.0 = Debug|x86
-		{E5870F98-9058-4979-8EE3-4A0E81F723BE}.Release|x86.ActiveCfg = Release|x86
-		{E5870F98-9058-4979-8EE3-4A0E81F723BE}.Release|x86.Build.0 = Release|x86
-		{B3B58441-1E41-4696-A8FC-5842BE0AE797}.Debug|x86.ActiveCfg = Debug|x86
-		{B3B58441-1E41-4696-A8FC-5842BE0AE797}.Debug|x86.Build.0 = Debug|x86
-		{B3B58441-1E41-4696-A8FC-5842BE0AE797}.Release|x86.ActiveCfg = Release|x86
-		{B3B58441-1E41-4696-A8FC-5842BE0AE797}.Release|x86.Build.0 = Release|x86
-		{291A1A39-E0D2-4752-95FA-2ECE42A65ABB}.Debug|x86.ActiveCfg = Debug|x86
-		{291A1A39-E0D2-4752-95FA-2ECE42A65ABB}.Debug|x86.Build.0 = Debug|x86
-		{291A1A39-E0D2-4752-95FA-2ECE42A65ABB}.Release|x86.ActiveCfg = Release|x86
-		{291A1A39-E0D2-4752-95FA-2ECE42A65ABB}.Release|x86.Build.0 = Release|x86
-		{9AA923B4-06D7-426D-B5E1-B7C7571739DB}.Debug|x86.ActiveCfg = Debug|x86
-		{9AA923B4-06D7-426D-B5E1-B7C7571739DB}.Debug|x86.Build.0 = Debug|x86
-		{9AA923B4-06D7-426D-B5E1-B7C7571739DB}.Release|x86.ActiveCfg = Release|x86
-		{9AA923B4-06D7-426D-B5E1-B7C7571739DB}.Release|x86.Build.0 = Release|x86
-		{7C5F2169-1564-4354-A2F0-8CF719A7BFDC}.Debug|x86.ActiveCfg = Debug|x86
-		{7C5F2169-1564-4354-A2F0-8CF719A7BFDC}.Debug|x86.Build.0 = Debug|x86
-		{7C5F2169-1564-4354-A2F0-8CF719A7BFDC}.Release|x86.ActiveCfg = Release|x86
-		{7C5F2169-1564-4354-A2F0-8CF719A7BFDC}.Release|x86.Build.0 = Release|x86
-		{D595AFDD-E4FC-4285-8148-4A071D22B28C}.Debug|x86.ActiveCfg = Debug|x86
-		{D595AFDD-E4FC-4285-8148-4A071D22B28C}.Debug|x86.Build.0 = Debug|x86
-		{D595AFDD-E4FC-4285-8148-4A071D22B28C}.Release|x86.ActiveCfg = Release|x86
-		{D595AFDD-E4FC-4285-8148-4A071D22B28C}.Release|x86.Build.0 = Release|x86
 		{25DBF1F4-D882-402E-B925-33DD4B46BB2C}.Debug|x86.ActiveCfg = Debug|x86
 		{25DBF1F4-D882-402E-B925-33DD4B46BB2C}.Debug|x86.Build.0 = Debug|x86
 		{25DBF1F4-D882-402E-B925-33DD4B46BB2C}.Release|x86.ActiveCfg = Release|x86
 		{25DBF1F4-D882-402E-B925-33DD4B46BB2C}.Release|x86.Build.0 = Release|x86
+		{EB880403-F107-43DC-81F8-704EB74C3C26}.Debug|x86.ActiveCfg = Debug|x86
+		{EB880403-F107-43DC-81F8-704EB74C3C26}.Debug|x86.Build.0 = Debug|x86
+		{EB880403-F107-43DC-81F8-704EB74C3C26}.Release|x86.ActiveCfg = Release|x86
+		{EB880403-F107-43DC-81F8-704EB74C3C26}.Release|x86.Build.0 = Release|x86
+		{82779808-D188-4419-B5C0-2066CE1A9794}.Debug|x86.ActiveCfg = Debug|x86
+		{82779808-D188-4419-B5C0-2066CE1A9794}.Debug|x86.Build.0 = Debug|x86
+		{82779808-D188-4419-B5C0-2066CE1A9794}.Release|x86.ActiveCfg = Release|x86
+		{82779808-D188-4419-B5C0-2066CE1A9794}.Release|x86.Build.0 = Release|x86
+		{4EA5A25A-F00A-4DC6-94F6-70CAEA00891E}.Debug|x86.ActiveCfg = Debug|x86
+		{4EA5A25A-F00A-4DC6-94F6-70CAEA00891E}.Debug|x86.Build.0 = Debug|x86
+		{4EA5A25A-F00A-4DC6-94F6-70CAEA00891E}.Release|x86.ActiveCfg = Release|x86
+		{4EA5A25A-F00A-4DC6-94F6-70CAEA00891E}.Release|x86.Build.0 = Release|x86
+		{7E505EE3-0885-4151-A398-3FA8DE442472}.Debug|x86.ActiveCfg = Debug|x86
+		{7E505EE3-0885-4151-A398-3FA8DE442472}.Debug|x86.Build.0 = Debug|x86
+		{7E505EE3-0885-4151-A398-3FA8DE442472}.Release|x86.ActiveCfg = Release|x86
+		{7E505EE3-0885-4151-A398-3FA8DE442472}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

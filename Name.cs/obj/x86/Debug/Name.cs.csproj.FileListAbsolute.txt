@@ -1,0 +1,4 @@
+C:\Users\EAHS CS\Desktop\ChapterJuan\Name.cs\bin\Debug\Name.cs.exe
+C:\Users\EAHS CS\Desktop\ChapterJuan\Name.cs\bin\Debug\Name.cs.pdb
+C:\Users\EAHS CS\Desktop\ChapterJuan\Name.cs\obj\x86\Debug\Name.cs.exe
+C:\Users\EAHS CS\Desktop\ChapterJuan\Name.cs\obj\x86\Debug\Name.cs.pdb

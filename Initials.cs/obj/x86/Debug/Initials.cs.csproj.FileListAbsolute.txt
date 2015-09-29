@@ -1,0 +1,4 @@
+C:\Users\EAHS CS\Desktop\ChapterJuan\Initials.cs\bin\Debug\Initials.cs.exe
+C:\Users\EAHS CS\Desktop\ChapterJuan\Initials.cs\bin\Debug\Initials.cs.pdb
+C:\Users\EAHS CS\Desktop\ChapterJuan\Initials.cs\obj\x86\Debug\Initials.cs.exe
+C:\Users\EAHS CS\Desktop\ChapterJuan\Initials.cs\obj\x86\Debug\Initials.cs.pdb
