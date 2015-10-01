@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tree.cs", "Tree.cs\Tree.cs.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Initials.cs", "Initials.cs\Initials.cs.csproj", "{7E505EE3-0885-4151-A398-3FA8DE442472}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BurmaShave.cs", "BurmaShave.cs\BurmaShave.cs.csproj", "{8E4677B9-7764-4C89-88C2-5874F3B5D806}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -37,6 +39,10 @@ Global
 		{7E505EE3-0885-4151-A398-3FA8DE442472}.Debug|x86.Build.0 = Debug|x86
 		{7E505EE3-0885-4151-A398-3FA8DE442472}.Release|x86.ActiveCfg = Release|x86
 		{7E505EE3-0885-4151-A398-3FA8DE442472}.Release|x86.Build.0 = Release|x86
+		{8E4677B9-7764-4C89-88C2-5874F3B5D806}.Debug|x86.ActiveCfg = Debug|x86
+		{8E4677B9-7764-4C89-88C2-5874F3B5D806}.Debug|x86.Build.0 = Debug|x86
+		{8E4677B9-7764-4C89-88C2-5874F3B5D806}.Release|x86.ActiveCfg = Release|x86
+		{8E4677B9-7764-4C89-88C2-5874F3B5D806}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
